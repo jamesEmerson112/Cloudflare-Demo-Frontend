@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+*.env
+
+# Next.js build output
+.next/
+
+# Static export
+out/
+
+# Build directories
+dist/
+build/
+
+# Lock files
+*.lock
